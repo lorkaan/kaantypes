@@ -1,0 +1,25 @@
+{
+  "name": "kaantypes",
+  "version": "1.0.0",
+  "description": "A small library designed to check types in Javascript",
+  "main": "kaantypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorkaan/kaantypes.git"
+  },
+  "keywords": [
+    "Developer",
+    "Types",
+    "Class",
+    "Object"
+  ],
+  "author": "Laurkan Rodriguez",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/lorkaan/kaantypes/issues"
+  },
+  "homepage": "https://github.com/lorkaan/kaantypes#readme"
+}
